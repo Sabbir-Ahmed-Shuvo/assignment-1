@@ -84,7 +84,7 @@ margin-top: 100px;
     text-align: center;
     color: gray;
   }
-  #image-title{
+#image-title{
     width: 30%;
     height: 450px;
     margin-left: 5%;
@@ -94,19 +94,34 @@ margin-top: 100px;
     box-shadow: 10px 10px 40px gray;
       
   }
-  #image-title img{
+#image-title img{
     width: 90%;
     margin: 15px;
     border-radius: 10px;
       
   }
-  #image-title h3{
+#image-title h3{
     margin: 15px;
     font-size: 30px;
     font-weight: 800;
   }
-  #image-title p{
+#image-title p{
     margin: 15px;
     color: gray;
       
   }
+.optional-main-div{
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 15px;
+}
+.div1{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
